@@ -1,0 +1,11 @@
+# Infraestrutura, Telemetria e API
+psutil>=5.9.0
+httpx>=0.27.0
+pydantic>=2.6.0
+pydantic-settings>=2.2.0
+
+# Analise de Dados e Visualizacao (Notebooks)
+pandas>=2.2.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+ipykernel>=6.29.0
